@@ -1,6 +1,6 @@
 {
 	"name": "ramexdeltaxoo/symfony-api-starter",
-    "type": "project"
+    "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
     "prefer-stable": true,
